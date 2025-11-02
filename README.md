@@ -1,4 +1,4 @@
-# Survey Instrument: Participant Version
+# AI Literacy, Technology Acceptance,and AI at Higher Education 
 
 ## Overview
 This repository contains the survey instrument used in two experimental studies exploring participant attitudes, reasoning, and perceptions related to Artificial Intelligence in educational and social contexts.
